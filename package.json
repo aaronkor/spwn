@@ -1,0 +1,26 @@
+{
+  "name": "spwn",
+  "version": "0.0.1",
+  "description": "node's spawn wrapper for easier use on Windows OS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronkor/spwn.git"
+  },
+  "keywords": [
+    "spawn",
+    "spwn",
+    "windows",
+    "wrapper",
+    "cmd"
+  ],
+  "author": "Aaron Kor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronkor/spwn/issues"
+  },
+  "homepage": "https://github.com/aaronkor/spwn"
+}
